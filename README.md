@@ -26,8 +26,8 @@ Ce projet présente une solution pour chiffrer le signal vidéo analogique trans
 
 Vous trouverez l'ensemble des fichiers nécessaires directement dans ce dépôt ainsi qu'en téléchargement externe :
 
-* 📄 **Cours et stl deuxième link :** [Télécharger le guide PDF (Google Drive)](https://drive.google.com/drive/folders/17_0UhAP0xfYPRxOokxFGxyd9bLsqbZJm?usp=drive_link)
-* 📦 **Fichiers 3D :** 
+* 📄 **Deuxième link :** [Télécharger le guide PDF et fichier stl (Google Drive)](https://drive.google.com/drive/folders/17_0UhAP0xfYPRxOokxFGxyd9bLsqbZJm?usp=drive_link)
+ 
 
 ---
 
